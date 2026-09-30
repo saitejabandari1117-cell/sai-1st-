@@ -1,2 +1,3 @@
 # sai-1st-
-My frist project repo 
+My frist project repo.
+Created by sai
